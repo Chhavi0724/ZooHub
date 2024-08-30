@@ -1,0 +1,55 @@
+
+.outer-div{
+height: 600px;
+background-color: rgb(2, 27, 2);
+margin-top: -30px;
+}
+.inner-div{
+ margin-top: 30px;
+ display: grid;
+ grid-template-columns: auto auto auto;
+}
+
+.tag{
+    color: rgb(245, 249, 248);
+    margin-left: 100px;
+    padding-left: 20px;
+    padding-top: 30px;
+    width: 400px;
+    font-size:40px;
+    font-weight: 900;
+    background: #023616;
+background: linear-gradient(to right, #bca406 0%, #d9ff9b 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.tickets{
+    font-family: cursive;
+    width: 400px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 30px;
+    margin-left: 110px;
+    background-color: grey;
+    border-radius: 30px;
+    box-shadow: 40px;
+    height: 200px;
+    color: rgb(229, 183, 33);
+    font-size: large;
+    font-weight: 400;
+    
+}
+.tigerImg{
+    height: 600px;
+    margin-left: 100px;
+    margin-right: -98px;
+}
+.pandaImg{
+
+    height: 600px;
+    margin-right: -100px;
+}
+.content{
+    background-color: rgb(143, 229, 229);
+}
